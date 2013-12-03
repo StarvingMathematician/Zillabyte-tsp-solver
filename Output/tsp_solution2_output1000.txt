@@ -1,0 +1,6 @@
+Greedy solution cost: 30.1568205274
+Greedy run time: 1.46187281609
+
+My solution cost: 29.7249969948
+My run time: 1.48930191994
+Additional loops required: 3
